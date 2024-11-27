@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@frontendperformer/button",
   "version": "0.0.5",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -24,5 +24,5 @@
     "url": "https://github.com/front-end-performer/monorepo/issues"
   },
   "homepage": "https://github.com/front-end-performer/monorepo#readme",
-  "gitHead": "a720fd52e7ae4ad19eb1e4cf35dd7045460d0c19"
+  "gitHead": "3389f36b12b0ecb28059e77f33949cbe2e66deb1"
 }
