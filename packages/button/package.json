@@ -4,9 +4,6 @@
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "front-end-performer <sodolinskyi@gmail.com>",
-  "publishConfig": {
-    "access": "public"
-  },
   "license": "ISC",
   "main": "lib/button.js",
   "directories": {
@@ -27,5 +24,5 @@
     "url": "https://github.com/front-end-performer/monorepo/issues"
   },
   "homepage": "https://github.com/front-end-performer/monorepo#readme",
-  "gitHead": "d8c0a17491690c8e3fe4f90cb38f4381f367ad8d"
+  "gitHead": "0f2e5a3bcbfc9c14dcadd672685d175bc56a0d01"
 }

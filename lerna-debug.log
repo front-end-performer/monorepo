@@ -1,0 +1,16 @@
+17 error Error: Command failed with exit code 1: git remote update
+17 error Warning: Permanently added the ECDSA host key for IP address '140.82.121.3' to the list of known hosts.
+17 error git@github.com: Permission denied (publickey).
+17 error fatal: Could not read from remote repository.
+17 error
+17 error Please make sure you have the correct access rights
+17 error and the repository exists.
+17 error error: Could not fetch origin
+17 error Fetching origin
+17 error     at makeError (/Users/admin/Documents/design-system/monorepo-playground/node_modules/execa/lib/error.js:59:11)
+17 error     at module.exports.sync (/Users/admin/Documents/design-system/monorepo-playground/node_modules/execa/index.js:186:17)
+17 error     at Object.execSync (/Users/admin/Documents/design-system/monorepo-playground/node_modules/lerna/dist/index.js:1579:31)
+17 error     at updateRemote (/Users/admin/Documents/design-system/monorepo-playground/node_modules/lerna/dist/index.js:9202:18)
+17 error     at isBehindUpstream (/Users/admin/Documents/design-system/monorepo-playground/node_modules/lerna/dist/index.js:9192:3)
+17 error     at VersionCommand.initialize (/Users/admin/Documents/design-system/monorepo-playground/node_modules/lerna/dist/index.js:9486:57)
+17 error     at VersionCommand.runCommand (/Users/admin/Documents/design-system/monorepo-playground/node_modules/lerna/dist/index.js:3296:36)
