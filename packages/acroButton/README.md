@@ -1,11 +1,11 @@
-# `button`
+# `acroButton`
 
 > TODO: description
 
 ## Usage
 
 ```
-const button = require('button');
+const acroButton = require('acroButton');
 
 // TODO: DEMONSTRATE API
 ```

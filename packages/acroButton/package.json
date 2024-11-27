@@ -13,8 +13,15 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-end-performer/monorepo.git"
+  },
   "scripts": {
     "test": "node ./__tests__/acroButton.test.js"
   },
-  "gitHead": "69d83f967c6db8ccdf5e4b3bbc4fcf5479875719"
+  "bugs": {
+    "url": "https://github.com/front-end-performer/monorepo/issues"
+  },
+  "homepage": "https://github.com/front-end-performer/monorepo#readme"
 }

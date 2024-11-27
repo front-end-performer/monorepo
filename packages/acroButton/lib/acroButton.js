@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = button;
+module.exports = acroButton;
 
 function acroButton() {
   return 'Hello from acroButton';
